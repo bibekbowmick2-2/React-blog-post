@@ -21,6 +21,10 @@
 
 <hr/>
 Demo Design Project 
-<img src="application-design/2024-11-02-00-01-34.mp4"/>
+
+
+https://github.com/user-attachments/assets/77864c43-9f9a-4bda-bb82-7d51b4f4c357
+
+
 
 <hr/>
